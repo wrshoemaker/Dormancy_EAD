@@ -1,0 +1,30 @@
+﻿Name,Sporulates,Accession,Fasta
+Bacillus psychrosaccharolyticus ATCC 23296,TRUE,NZ AJTN00000000,GCF_000305495.1_BacPsy2.0_genomic.fna
+Planococcus antarcticus DSM 14505,TRUE,NZ CP016534,GCF_001687565.2_ASM168756v2_genomic.fna
+Solibacillus silvestris StLB046,TRUE,NZ CP014609,GCF_001586195.1_ASM158619v1_genomic.fna
+Lysinibacillus fusiformis ZC1,TRUE,NZ CP010820,GCF_000724775.3_ASM72477v3_genomic.fna
+Lysinibacillus sphaericus C3-41,TRUE,NZ CP017560,GCF_001753205.1_ASM175320v1_genomic.fna
+Macrococcus caseolyticus JCSC5402,FALSE,NC 011999,GCF_000010585.1_ASM1058v1_genomic.fna
+Staphylococcus aureus subsp. aureus NCTC 8325,FALSE,NC 007795,GCF_000013425.1_ASM1342v1_genomic.fna
+Listeria monocytogenes EGD-e,FALSE,NC 003210,GCF_000196035.1_ASM19603v1_genomic.fna
+Lactobacillus casei ATCC 334,FALSE,NC 008526,GCF_000014525.1_ASM1452v1_genomic.fna
+Streptococcus pneumoniae TIGR4,FALSE,NC 003028,GCF_000006885.1_ASM688v1_genomic.fna
+Enterococcus faecalis V583,FALSE,NC 004668,GCF_000007785.1_ASM778v1_genomic.fna
+Bacillus subtilis subsp. subtilis str. 168,TRUE,NC 000964,GCF_000009045.1_ASM904v1_genomic.fna
+Bacillus megaterium DSM 319,TRUE,NC_014103,GCF_000025805.1_ASM2580v1_genomic.fna
+Bacillus anthracis str. Ames,TRUE,NC 003997,GCF_000007845.1_ASM784v1_genomic.fna
+Geobacillus kaustophilus HTA426,TRUE,NC 006510,GCF_000009785.1_ASM978v1_genomic.fna
+Anoxybacillus flavithermus WK1,TRUE,NC 011567,GCF_000019045.1_ASM1904v1_genomic.fna
+Acholeplasma laidlawii PG-8A,FALSE,NC 010163,GCF_000018785.1_ASM1878v1_genomic.fna
+Erysipelothrix rhusiopathiae str. Fujisawa,FALSE,NC 015601,GCF_000270085.1_ASM27008v1_genomic.fna
+Erysipelatoclostridium spiroforme DSM 1552,TRUE,NZ ABIK00000000,GCF_000154805.1_ASM15480v1_genomic.fna
+Erysipelatoclostridium ramosum DSM 1402,TRUE,NZ ABFX00000000,GCF_000154485.1_ASM15448v1_genomic.fna
+Bacillus halodurans C-125,TRUE,NC_002570.2,GCF_000011145.1_ASM1114v1_genomic.fna
+Bacillus clausii KSM-K16,TRUE,NC 006582,GCF_000009825.1_ASM982v1_genomic.fna
+Exiguobacterium sibiricum 255-15,FALSE,NC 010556,GCF_000019905.1_ASM1990v1_genomic.fna
+Oceanobacillus iheyensis HTE831,TRUE,NC 004193,GCF_000011245.1_ASM1124v1_genomic.fna
+Paenibacillus polymyxa E681,TRUE,NC 014483,GCF_000146875.3_ASM14687v2_genomic.fna
+Brevibacillus brevis NBRC 100599,TRUE,NC 012491,GCF_000010165.1_ASM1016v1_genomic.fna
+Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446,TRUE,NC 013205,GCF_000024285.1_ASM2428v1_genomic.fna
+Kyrpidia tusciae DSM 2912,TRUE,NC 014098,GCF_000092905.1_ASM9290v1_genomic.fna
+Clostridium acetobutylicum ATCC 824,TRUE,NC 003030,GCF_000008765.1_ASM876v1_genomic.fna
